@@ -1,4 +1,4 @@
-# Project Title
+# Numpy 2D array Texel generator
 Texel generator takes a 2D numpy array and returns a "texelized" version of the original 2D array. The returned array is composed of "texels". Each texel is a sub matrix in the 2D array of t_rows and t_cols. the values inside each texel are the mean of the values for all the cells corresponding to the texel in the original 2D array.
 
 # Getting Started
