@@ -5,7 +5,8 @@ Texel generator takes a 2D numpy array and returns a "texelized" version of the 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 # Prerequisites
-Python 3 ,Numpy 
+### Python 3
+### numpy
 
 # Installing
 Load it as a separate module in the file where it needs to be used
