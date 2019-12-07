@@ -13,12 +13,12 @@ Load it as a separate module in the file where it needs to be used
 
 # Example
 
-if __name__ == "__main__": 
-  #Create a 2D array of 500 * 498 with calues from 1 to 2,49000.
-  a=np.arange(249000).reshape(500,498)
+>if __name__ == "__main__": 
+  >#Create a 2D array of 500 * 498 with calues from 1 to 2,49000.
+  >a=np.arange(249000).reshape(500,498)
 
-  #Get the texelelized version of the array in X.
-  texelized_array = concat_arr(texel(a,4,4))
+  >#Get the texelelized version of the array in X.
+  >texelized_array = concat_arr(texel(a,4,4))
 
 
 # Author/s
